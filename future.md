@@ -2,7 +2,7 @@
 
 | Date       | Presenter         | Title                                          | Slides                                    |
 |------------|-------------------|------------------------------------------------|-------------------------------------------|
-| 2023-10-24 | Jin Yang | A Scalable Formal Approach for Correctness-Assured Hardware Design| View Slides |
+| 2023-10-24 | Jin Yang | A Scalable Formal Approach for Correctness-Assured Hardware Design|  |
 
 ---
 
@@ -11,12 +11,15 @@
 #### 2023-10-24:
 
 **Presenter:**
-Jin Yang, (Intel Labs)
 
-****Title:** 
+Jin Yang (Intel Labs)
+
+**Title:** 
+
 A Scalable Formal Approach for Correctness-Assured Hardware Design
 
 **Abstract:** 
+
 Correctness must be a first principle in hardware design, especially for security and safety critical applications. We will give an overview of our scalable approach for correctness-assured hardware design at behavioral level, based on formalizing microarchitecture features as program transformations in an incremental compiler design and microprocessor correctness as a refined notation of compiler correctness. We will show how our approach is applied to designing a formally verified FHE (Fully Homo-morphic Encryption) accelerator.
  
 **Bio:** 

@@ -7,8 +7,9 @@ This repository contains slides and related materials for the WASP NEST project 
 
 ## Seminars
 
-[Past Seminars](./past.md)
-[Future Seminars](./future.md)
+#### [Past Seminars](./past.md)
+
+#### [Future Seminars](./future.md)
 
 
 ### Contributing
