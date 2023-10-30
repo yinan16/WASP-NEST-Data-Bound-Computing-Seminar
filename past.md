@@ -3,7 +3,7 @@
 | Date       | Presenter         | Title                                          | Slides                                    |
 |------------|-------------------|------------------------------------------------|-------------------------------------------|
 | 2023-10-10 | Joseph W. Cutler  | The Essence of Structured Streaming Computation| [View Slides](./Slides/[20231010]StructuredStreamingComputation-JosephCutler.pdf) |
-| 2023-10-24 | Jin Yang | A Scalable Formal Approach for Correctness-Assured Hardware Design| [View Slides](./Slides/[20231024]ADVIS - 23Q4-1.pdf) |
+| 2023-10-24 | Jin Yang | A Scalable Formal Approach for Correctness-Assured Hardware Design| [View Slides](./Slides/[20231024]ADVIS-23Q4-1.pdf) |
 
 ---
 
