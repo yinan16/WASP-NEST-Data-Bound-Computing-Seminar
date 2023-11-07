@@ -16,6 +16,7 @@
 Klas Segeljakt (KTH)
 
 **Time and location**:
+
 Time: 2023-11-14 15:00 - 16:00 
 
 Zoom link: https://chalmers.zoom.us/j/66097979048
